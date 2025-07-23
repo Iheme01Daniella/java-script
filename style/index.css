@@ -1,0 +1,21 @@
+
+.text{
+    text-align: center;
+}
+.card img{
+    object-fit: cover;
+    width: 200px;
+}
+
+.footer{
+    background-color: rgb(246, 222, 246);
+    margin-top: 40px;
+    padding: 5rem;
+}
+body {
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.card {
+  max-width: 100%; /* Ensure cards never overflow */
+}
