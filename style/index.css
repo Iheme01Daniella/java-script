@@ -1,13 +1,10 @@
-/* body {
+body {
   overflow-x: hidden; 
-} */
+}
 .text{
     text-align: center;
 }
-.navbar{
-    /* background-color: rgb(246, 222, 246); */
-    border: thin solid red;
-}
+
 .card img{
     object-fit: cover;
     width: 200px;
