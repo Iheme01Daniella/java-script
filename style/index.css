@@ -1,4 +1,6 @@
-
+/* body {
+  overflow-x: hidden; 
+} */
 .text{
     text-align: center;
 }
@@ -11,10 +13,9 @@
     background-color: rgb(246, 222, 246);
     margin-top: 40px;
     padding: 5rem;
+    border:thin solid red;
 }
-body {
-  overflow-x: hidden; /* Prevent horizontal scroll */
-}
+
 
 .card {
   max-width: 100%; /* Ensure cards never overflow */
