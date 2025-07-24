@@ -24,7 +24,8 @@ body,html {
 
 
 .card {
-  max-width: 100%; /* Ensure cards never overflow */
+  max-width: 100%;
+   border: thin solid red;
 }
 ul li a{
     text-decoration: none;
