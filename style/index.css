@@ -4,13 +4,14 @@
 .text{
     text-align: center;
 }
+.test{
+    border: thin solid red;
+}
 .card img{
     object-fit: cover;
     width: 200px;
 }
-.row{
-    border: thin solid black;
-}
+
 .footer{
     background-color: rgb(246, 222, 246);
     margin-top: 40px;
