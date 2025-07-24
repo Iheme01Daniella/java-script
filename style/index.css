@@ -4,7 +4,8 @@
 .text{
     text-align: center;
 }
-.test{
+.navbar{
+    /* background-color: rgb(246, 222, 246); */
     border: thin solid red;
 }
 .card img{
